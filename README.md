@@ -1,5 +1,5 @@
 
-# 🤖 Self-Correcting Agentic RAG Knowledge Engine
+# 🤖 Self-Correcting Agentic RAG Knowledge Engine is an intelligent Retrieval-Augmented Generation application
 
 ### 🧠 Advanced Retrieval-Augmented Generation with Contextual Intelligence
 
